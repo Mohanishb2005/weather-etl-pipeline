@@ -34,7 +34,7 @@ Power BI Dashboard
 
 ## Dashboard
 
-![Dashboard](dashboard/dashboard.png)
+![Dashboard](dashboard.png)
 
 ## Author
 
