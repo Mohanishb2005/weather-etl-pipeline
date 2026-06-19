@@ -32,6 +32,10 @@ Power BI Dashboard
 - Perform SQL analysis
 - Build interactive Power BI dashboard
 
+## Dashboard
+
+![Dashboard](dashboard/dashboard.png)
+
 ## Author
 
 Mohanish
